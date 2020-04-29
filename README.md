@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Bienvenido al BLog de Saby
 
-You can use the [editor on GitHub](https://github.com/SabsFabian/SabsFabian.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+En este espacio [sabsfabian](https://sabsfabian.github.io/) encontraras la info del paso a paso de como crear tu primera Web.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Prepara tu idea que sin mas empezaremos, verás que usar el HTML y CSS no es nada del otro mundo.
 
-### Markdown
+### HTML y CSS
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Este complemento te ayudará a darle la forma digital a tus ideas.
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +26,13 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Para obtener mas detalles, consulte a [GitHub sabsfabian.github.io](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Saby Fabián
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SabsFabian/SabsFabian.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+indemnification la estructura y estilo en [repository settings](https://github.com/SabsFabian/SabsFabian.github.io/settings).
 
-### Support or Contact
+### Soporte o Contacto
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+¿Tienes problemas con la pagina? consulta nuestra [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact)
+ y lo ayudaremos a resolverlo.
